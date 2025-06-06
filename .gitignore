@@ -46,6 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# 각 단원의 하위 .vs 폴더
+# 각 단원의 하위 .vs 폴더와 Release 폴더 제외
 .vs/
-.Release/
+Release/
