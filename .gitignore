@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# 각 단원의 하위 .vs 폴더
+.vs/
+.Release/
